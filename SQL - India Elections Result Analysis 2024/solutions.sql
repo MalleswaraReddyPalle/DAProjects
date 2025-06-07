@@ -1,3 +1,4 @@
+/*This file contains all the solutions for the problems in Problems_1.PNG and Problems_2.PNG*/
 use IndianElectionResults;
 
 select * from constituencywise_details;
